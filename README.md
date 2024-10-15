@@ -1,5 +1,6 @@
 ## Hi there 👋
 - 🔭 I’m currently working on how to use github
+- Jenny is my spirit guide
 <!--
 **Joyscream/Joyscream** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
